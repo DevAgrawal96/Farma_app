@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_"
+        android:checkable="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_title" />
+    <item
+        android:id="@+id/weather_"
+        android:icon="@drawable/ic_weather"
+        android:title="@string/weather_title" />
+    <item
+        android:id="@+id/market_rate"
+        android:icon="@drawable/ic_rupee"
+        android:title="@string/market_rate" />
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_news"
+        android:title="@string/news"
+        />
+
+</menu>
